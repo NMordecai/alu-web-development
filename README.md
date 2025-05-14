@@ -1,2 +1,2 @@
 # alu-web-development
-webb development
+web development
